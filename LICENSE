@@ -1,0 +1,145 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)
+
+Copyright (C) 2020 CERN
+
+This Licence is a contract between the Licensor and you, the Licensee. By 
+exercising any right granted under this Licence, you accept and agree to 
+be bound by all its terms and conditions.
+
+1. Definitions
+
+1.1 'Licence' means this CERN Open Hardware Licence Version 2 - Strongly 
+Reciprocal.
+
+1.2 'Source' means information in any form (including, but not limited to, 
+schematics, layout designs, computer-aided design files, software, 
+firmware, documentation and text) describing the Product and/or the Object 
+Code, and reasonably necessary for maintaining, manufacturing, and/or 
+using the Product.
+
+1.3 'Product' means any physical object or device manufactured or 
+assembled based on the Source.
+
+1.4 'Object Code' means the digital representation of the Source 
+resulting from its compilation, translation or execution by a computer or 
+similar machine.
+
+1.5 'Licensee' (or 'you') means any natural or legal person exercising 
+rights under this Licence.
+
+1.6 'Licensor' means any natural or legal person who grants rights under 
+this Licence.
+
+1.7 'Contributor' means any natural or legal person who Modifies the 
+Source or the Object Code, and makes the resulting work available under 
+this Licence.
+
+1.8 'Modify' (or 'Modification') means to alter the Source or the Object 
+Code, or to perform any work that is based on the Source or the Object 
+Code or that incorporates the Source or the Object Code.
+
+1.9 'Convey' (or 'Conveyance') means to make the Source, the Object Code 
+or the Product available to any third party, whether by sale, lease, loan, 
+gift, or any other form of transfer or distribution.
+
+
+2. License Grants
+
+2.1 Copyright and Database Rights
+
+The Licensor hereby grants you a perpetual, worldwide, non-exclusive, 
+no-charge, royalty-free copyright and database licence to use, copy, 
+Modify, and Convey the Source, the Object Code and the Product.
+
+2.2 Patents
+
+The Licensor hereby grants you a perpetual, worldwide, non-exclusive, 
+no-charge, royalty-free patent licence under all patent claims open to 
+licence by the Licensor, which are necessary to make, use, sell, offer for 
+sale, import, or otherwise Convey the Source, the Object Code or the 
+Product.
+
+
+3. Conditions and Reciprocity
+
+The grants under Section 2 are subject to the following conditions:
+
+3.1 Notices
+
+You must preserve and maintain all copyright, patent, trademark and 
+licence notices, and any disclaimers, present in the Source you receive.
+
+3.2 Modifications
+
+a) If you Modify the Source or the Object Code, you must include a notice 
+in the Modified Source or Object Code stating that you have modified it, 
+and providing the date and a brief description of the Modification.
+
+b) If you Convey Modified Source, you must do so under the terms of this 
+Licence or, if the Licensor has specified that a later version of the 
+CERN Open Hardware Licence applies, under the terms of this Licence or 
+that later version.
+
+c) If you Convey Modified Object Code or a Product based on Modified 
+Source, you must make the Source for such Modified Object Code or Product 
+available to the recipient, under the terms of this Licence, in one of the 
+following ways:
+
+i) by including it with the Conveyance; or
+ii) by providing a written offer, valid for at least three years, to state 
+where the Source can be obtained; or
+iii) if you provide the Object Code or Product via a network or specific 
+website, by providing a link or uniform resource identifier to the Source 
+on the same network or website, or a similarly accessible location.
+
+3.3 Strong Reciprocity
+
+a) The complete Source for any Product or Object Code that you Convey 
+under Section 3.2(c) must be licensed under this Licence, including any 
+components, parts or subsystems that you have added or Modified.
+
+b) The requirement in Section 3.3(a) applies to any part of the Source that 
+is required to form a fully operational and compatible Product or Object 
+Code, even if such parts could be considered independent works in their 
+own right.
+
+
+4. Disclaimer of Warranty and Limitation of Liability
+
+4.1 THE SOURCE, OBJECT CODE AND PRODUCT ARE PROVIDED 'AS IS' AND WITH ALL 
+FAULTS. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR AND EACH 
+CONTRIBUTOR DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+AND NON-INFRINGEMENT.
+
+4.2 IN NO EVENT SHALL THE LICENSOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY 
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER 
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY 
+OUT OF THE USE OF THE SOURCE, OBJECT CODE OR PRODUCT, EVEN IF ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGE.
+
+
+5. Termination
+
+5.1 The rights granted to you under this Licence shall terminate 
+automatically if you fail to comply with any of its terms.
+
+5.2 If your rights are terminated, they shall be reinstated if you cure the 
+breach within 30 days of becoming aware of it, or if the Licensor explicitly 
+reinstates your rights. Termination shall not affect the rights of third 
+parties who have received the Source, Object Code or Product from you in good 
+faith prior to termination.
+
+
+6. General
+
+6.1 If any provision of this Licence is found to be invalid or 
+unenforceable, the remaining provisions shall remain in full force and effect.
+
+6.2 This Licence shall be governed by the laws of the country where the 
+Licensor has their principal place of business or residence, without regard 
+to conflict of law principles. Any dispute arising out of this Licence shall 
+be subject to the exclusive jurisdiction of the courts of that country.
