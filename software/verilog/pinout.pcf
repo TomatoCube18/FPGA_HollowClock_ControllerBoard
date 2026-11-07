@@ -1,0 +1,17 @@
+# Outputs
+set_io STEPPER1 5
+set_io STEPPER2 23
+set_io STEPPER3 22
+set_io STEPPER4 18
+set_io LED1		1
+set_io LED2		32
+set_io LED3		31
+set_io NEO_OUT	7
+
+# Inputs
+set_io CLK_IN   8
+set_io RST_IN   2
+# set_io SW1_IN    2
+set_io SW2_IN    27
+set_io SW3_IN    26
+set_io IR_IN    20

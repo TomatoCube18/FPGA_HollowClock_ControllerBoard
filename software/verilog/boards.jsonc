@@ -1,0 +1,9 @@
+{
+  "TomatoCube-ice40lp384-Clock": {
+    "description": "Lattice Ice40LP384 Clock",
+    "fpga-id": "ice40lp384-qn32",
+    "programmer": {
+      "id": "iceprog"
+    }
+  }
+}
